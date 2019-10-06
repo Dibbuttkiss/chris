@@ -1,0 +1,62 @@
+ol{
+text-align: center;
+margin: 50px 100px;
+border: 10px;
+padding-left: 0px;
+padding-right: 100px;
+padding-top: 10px;
+padding-bottom: 20px;
+background-color: #fe8019;
+border-style: dotted;
+border-color: purple;
+border-width: 10;
+}
+
+li {
+  margin: auto;
+}
+
+.active {
+  background-color: #4C1F72
+color: white;
+}
+
+
+
+
+
+body{
+background-color: #A5BFC2;
+}
+
+
+
+
+
+
+
+
+.Part1 {
+text-align: auto;
+width: auto ;
+height: auto;
+background-color: red;
+}
+.Part2 {
+  text-align: auto;
+width: auto;
+height: auto;
+background-color: yellow;
+}
+.Part3 {
+  text-align: auto;
+width: auto;
+height: auto;
+background-color: blue;
+}
+.Part4 {
+  text-align: auto;
+width: auto;
+height: auto;
+background-color: green;
+}
